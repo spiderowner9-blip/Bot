@@ -1,0 +1,13 @@
+chmod +x *
+
+./danger.sh
+
+pip install python-telegram-bot --upgrade
+
+chmod +x *
+
+python3 danger.py
+
+
+
+#-----SCRIP CREATED BY - @DANGER_BOY_OP-----#
